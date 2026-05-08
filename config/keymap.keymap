@@ -49,7 +49,7 @@
 &trans  &none         &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &none                      &none        &kp HOME            &kp UP_ARROW        &kp END              &kp LS(UP_ARROW)  &trans
 &trans  &kp NUMBER_0  &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &none   &trans  &trans     &kp PAGE_UP  &kp LEFT_ARROW      &kp DOWN_ARROW      &kp RIGHT_ARROW      &kp PAGE_DOWN     &trans
 &trans  &none         &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &none   &trans  &trans     &none        &kp LS(LEFT_ARROW)  &kp LS(DOWN_ARROW)  &kp LS(RIGHT_ARROW)  &none             &trans
-&trans  &trans        &trans        &trans        &trans        &trans  &trans  &kp RCTRL  &kp TAB      &kp DEL             &trans              &trans               &trans            &trans
+&trans  &trans        &trans        &trans        &trans        &trans  &trans  &kp RCTRL  &kp DEL      &none               &trans              &trans               &trans            &trans
             >;
         };
 
